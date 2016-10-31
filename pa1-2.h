@@ -1,6 +1,6 @@
 //  pa1.h
 //  Magic Squares Generator
-
+//This project sucked
 
 #ifndef pa1_h
 #define pa1_h
